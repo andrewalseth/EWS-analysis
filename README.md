@@ -1,2 +1,2 @@
 # EWS-analysis
-Code to download and analyze the Enduro World Series (EWS) results
+Code to download and analyze Enduro World Series (EWS) results
